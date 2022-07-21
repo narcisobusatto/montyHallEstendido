@@ -6,7 +6,7 @@ Projeto para verificação da estratégia TROCAR PORTAS como estratégia ótima.
 
 O primeiro arquivo permite a simulação do paradoxo no modelo
 
-![modelo][/imagens/montyHallEstendido.png]
+![alt modelo][/imagens/montyHallEstendido.png]
 
 No qual:
 p: quantidade de portas disponíveis para o participante
@@ -33,6 +33,6 @@ p: quantidade de portas disponíveis para o participante
 
 conforme o artigo no [Medium](https://medium.com/@narcisobusatto/paradoxo-de-monty-hall-b4a96ab682bf), a probabilidade de ganho para uma estratégia de TROCAR PORTAS é dada por
 
-![estimativa][/imagens/estimativaMHE.png]
+![alt estimativa][/imagens/estimativaMHE.png]
 
-![gráfico][/imagens/estimativaGraficoMHE.png]
+![alt gráfico][/imagens/estimativaGraficoMHE.png]
